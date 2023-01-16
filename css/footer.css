@@ -1,0 +1,100 @@
+footer{
+    height: 10%;
+    flex-shrink: 0;
+    border-top: 2px solid #000;
+    width: 100%;
+    background: #f1f1f1;
+    /*background-color: rgb(20, 172, 192);*/
+    color: #333;
+}
+/*.contenu-footer{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 20px;
+    padding: 50px 0 100px;
+}
+.bloc{
+    width: 25%;
+    margin: 0 30px;
+}
+
+.footer-contact h3,
+.footer-services h3,
+.footer-horaires h3,
+.footer-medias h3{
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.footer-contact p{
+    padding: 5px 0;
+}
+
+.liste-services,
+.liste-horaires,
+.liste-media{
+    list-style-type: none;
+}
+.liste-services li{
+    padding: 2px 0;
+}
+.liste-services a{
+    text-decoration: none;
+    color: #333;
+}
+.liste-services a:hover{
+    color: rgb(20, 172, 192)
+}
+
+.liste-media{
+    position: relative;
+    right: 10px;
+}
+.liste-media img{
+    width: 40px;
+    margin: 10px 10px;
+}
+.liste-media a{
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.liste-media a:hover {
+    color: rgb(20, 172, 192)
+}
+
+@media screen and (max-width: 1300px){
+    .contenu-footer{
+        width: 700px;
+        flex-wrap: wrap;
+    }
+    .bloc{
+        width: 40%;
+        margin: 0 0;
+    }
+    .bloc:nth-child(1),
+    .bloc:nth-child(2){
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .contenu-footer{
+        width: 320px;
+    }
+    .bloc{
+        width: 300px;
+        margin: 30px 30px;
+    }
+    .bloc:nth-child(1),
+    .bloc:nth-child(2){
+        margin-bottom: 30px;
+    }
+    .bloc:nth-child(1){
+        margin-top: 0;
+    }
+}*/
